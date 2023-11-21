@@ -2,7 +2,7 @@
 
 Esta função JavaScript calcula a soma de todos os valores inteiros divisíveis por 3 ou 5 que são menores que o número passado como parâmetro.
 
-## Sobre a função
+## ✍️ Sobre a função
 
 A função `sumDivisibleNumbers` recebe um número inteiro positivo como argumento. Ela gera um array de números de 1 até esse número exclusivo usando `Array.from` e `length: num - 1`.
 
@@ -34,7 +34,7 @@ console.log(result); // Saída esperada: 23
 
 Lembre-se de alterar o número `10` por outros valores para testar diferentes casos.
 
-## Licença
+## 📄 Licença
 
 Este projeto está licenciado sob a MIT License
 
