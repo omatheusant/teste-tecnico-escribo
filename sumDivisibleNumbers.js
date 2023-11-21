@@ -3,5 +3,5 @@ function sumDivisibleNumbers(num) {
     .filter((n) => n % 3 === 0 || n % 5 === 0)
     .reduce((acc, curr) => acc + curr, 0);
 }
-
-console.log(sumDivisibleNumbers(10))
+const result = sumDivisibleNumbers(10)
+console.log(result)
